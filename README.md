@@ -1,6 +1,6 @@
 🇺🇸
 
-# Hey there! I'm Isabella Nunes. <img src=".readme/wave.gif" width="30px">
+# Hey there! I'm Isabella Nunes. <img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/wave.gif" width="30px">
 
 👩‍💻 Bachelor of Computer Science and Network Specialist
 
@@ -37,13 +37,13 @@
 
 Get in touch if you have any questions!
 
-<img src=".readme/sheldon.gif" width="400px">
+<img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/sheldon.gif" width="400px">
 
 ***
 
 🇧🇷
 
-## Olá! Sou Isabella Nunes. <img src=".readme/wave.gif" width="30px">
+## Olá! Sou Isabella Nunes. <img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/wave.gif" width="30px">
 
 👩‍💻 Bacharel em Ciências da Computação e especialista em Redes
 
@@ -80,4 +80,4 @@ Get in touch if you have any questions!
 
 Entre em contato se tiver qualquer dúvida!
 
-<img src=".readme/sheldon.gif" width="400px">
+<img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/sheldon.gif" width="400px">
