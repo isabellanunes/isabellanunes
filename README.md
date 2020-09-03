@@ -45,7 +45,7 @@ Get in touch if you have any questions!
 
 ## Olá! Sou Isabella Nunes. <img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/wave.gif" width="30px">
 
-👩‍💻 Bacharel em Ciências da Computação e especialista em Redes
+👩‍💻 Bacharela em Ciências da Computação e especialista em Redes
 
 🌱 Atualmente trabalho no Grupo Tec Agro empresa da Nutrien Ag Solutions como Analista de Dados e Desenvolvedora de software
 
