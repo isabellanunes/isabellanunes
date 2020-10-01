@@ -2,9 +2,9 @@
 
 # Hey there! I'm Isabella Nunes. <img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/wave.gif" width="30px">
 
-👩‍💻 Bachelor of Computer Science and Network Specialist
+👩‍💻 Computer Science Bachelor from the Federal University of Goiás (UFG) and specializing in Computer Networks from the Federal University of Technology - Paraná
 
-🌱 Curreently working at Grupo Tec Agro a company by Nutrien Ag Solutions as a Data Architect Analyst and Software Developer
+🌱 Curreently working at Grupo Tec Agro a company by Nutrien as Data Architect Analyst and Software Developer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=isabellanunes&count_private=true&show_icons=true&theme=vue)
 
