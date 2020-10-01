@@ -45,9 +45,9 @@ Get in touch if you have any questions!
 
 ## Olá! Sou Isabella Nunes. <img src="https://raw.githubusercontent.com/isabellanunes/isabellanunes/master/.readme/wave.gif" width="30px">
 
-👩‍💻 Bacharela em Ciências da Computação e especialista em Redes
+👩‍💻 Sou Bacharela em Ciências da Computação pela Universidade Federal de Goiás (UFG) e estudo Especialização em Redes de Computadores pela Universidade Tecnológica Federal do Paraná (UTFPR)
 
-🌱 Atualmente trabalho no Grupo Tec Agro empresa da Nutrien Ag Solutions como Analista de Dados e Desenvolvedora de software
+🌱 Atualmente trabalho no Grupo Tec Agro empresa da Nutrien como Analista de Arquitetura de Dados e Desenvolvimento de Software
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=isabellanunes&count_private=true&show_icons=true&theme=vue)
 
