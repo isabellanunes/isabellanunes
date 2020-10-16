@@ -12,23 +12,23 @@
 
 ### Programming Languages, Framworks, Scripts
 
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=LightSeaGreen&style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/static/v1?label=&message=Django&color=LightSeaGreen&style=flat-square&logo=Django&logoColor=white)
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=LightSeaGreen&style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=LightSeaGreen&style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=LightSeaGreen&style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=LightSeaGreen&style=flat-square&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=LightSeaGreen&style=flat-square&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=LightSeaGreen&style=flat-square&logo=Java&logoColor=white)
-![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=LightSeaGreen&style=flat-square&logo=PHP&logoColor=white)
-![React](https://img.shields.io/static/v1?label=&message=React&color=LightSeaGreen&style=flat-square&logo=React&logoColor=white)
-![React Native](https://img.shields.io/static/v1?label=&message=ReactNative&color=LightSeaGreen&style=flat-square&logo=React&logoColor=white)
-![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=LightSeaGreen&style=flat-square&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=LightSlateGray&style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=LightSlateGray&style=flat-square&logo=Django&logoColor=white)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=LightSlateGray&style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=LightSlateGray&style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=LightSlateGray&style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=LightSlateGray&style=flat-square&logo=TypeScript&logoColor=white)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=LightSlateGray&style=flat-square&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=LightSlateGray&style=flat-square&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=LightSlateGray&style=flat-square&logo=PHP&logoColor=white)
+![React](https://img.shields.io/static/v1?label=&message=React&color=LightSlateGray&style=flat-square&logo=React&logoColor=white)
+![React Native](https://img.shields.io/static/v1?label=&message=ReactNative&color=LightSlateGray&style=flat-square&logo=React&logoColor=white)
+![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=LightSlateGray&style=flat-square&logo=Lua&logoColor=white)
 
 ### IT infrastruture, CI/CD
 
-![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=LightSeaGreen&style=flat-square&logo=Docker&logoColor=white)
-![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=LightSeaGreen&style=flat-square&logo=Linux&logoColor=white)
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=LightSlateGray&style=flat-square&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=LightSlateGray&style=flat-square&logo=Linux&logoColor=white)
 
 ## Let's talk!
 
@@ -55,23 +55,23 @@ Get in touch if you have any questions!
 
 ### Linguagens, Framworks, Scripts
 
-![Python](https://img.shields.io/static/v1?label=&message=Python&color=LightSeaGreen&style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/static/v1?label=&message=Django&color=LightSeaGreen&style=flat-square&logo=Django&logoColor=white)
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=LightSeaGreen&style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=LightSeaGreen&style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=LightSeaGreen&style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=LightSeaGreen&style=flat-square&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=LightSeaGreen&style=flat-square&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=LightSeaGreen&style=flat-square&logo=Java&logoColor=white)
-![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=LightSeaGreen&style=flat-square&logo=PHP&logoColor=white)
-![React](https://img.shields.io/static/v1?label=&message=React&color=LightSeaGreen&style=flat-square&logo=React&logoColor=white)
-![React Native](https://img.shields.io/static/v1?label=&message=ReactNative&color=LightSeaGreen&style=flat-square&logo=React&logoColor=white)
-![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=LightSeaGreen&style=flat-square&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=LightSlateGray&style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=LightSlateGray&style=flat-square&logo=Django&logoColor=white)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=LightSlateGray&style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=LightSlateGray&style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=LightSlateGray&style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=LightSlateGray&style=flat-square&logo=TypeScript&logoColor=white)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=LightSlateGray&style=flat-square&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=LightSlateGray&style=flat-square&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=LightSlateGray&style=flat-square&logo=PHP&logoColor=white)
+![React](https://img.shields.io/static/v1?label=&message=React&color=LightSlateGray&style=flat-square&logo=React&logoColor=white)
+![React Native](https://img.shields.io/static/v1?label=&message=ReactNative&color=LightSlateGray&style=flat-square&logo=React&logoColor=white)
+![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=LightSlateGray&style=flat-square&logo=Lua&logoColor=white)
 
 ### Infraestrutura, CI/CD
 
-![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=LightSeaGreen&style=flat-square&logo=Docker&logoColor=white)
-![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=LightSeaGreen&style=flat-square&logo=Linux&logoColor=white)
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=LightSlateGray&style=flat-square&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=LightSlateGray&style=flat-square&logo=Linux&logoColor=white)
 
 ## Vamos conversar?
 
