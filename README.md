@@ -1,8 +1,8 @@
 # Hey there! I'm Isabella Nunes
 
-👩‍💻 Computer Science Bachelor from Federal University of Goiás (UFG) and specializing in Java on Federal University of Technology - Paraná
+👩‍💻 Computer Science Bachelor from Federal University of Goiás (UFG) and specializing on Java on Federal University of Technology - Paraná
 
-🩺 Curreently working at Philips as Experienced Developer
+👩‍⚕️ Curreently working at Philips as Experienced Developer
 
 ## Get in touch if you have any questions! 
 
