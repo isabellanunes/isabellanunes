@@ -1,6 +1,6 @@
 # Hey there! I'm Isabella Nunes
 
-👩‍💻 A Software Engineer with a [Computer Science Bachelor from Federal University of Goiás (UFG)](https://inf.ufg.br/p/30138-ciencia-da-computacao?atr=en&locale=en)
+👩‍💻 [Computer Science Bachelor from Federal University of Goiás (UFG)](https://inf.ufg.br/p/30138-ciencia-da-computacao?atr=en&locale=en)
 
 👩‍⚕️ Curreently working at [Philips](https://www.usa.philips.com/?&locale_code=en_us&remember_locale=en_us) as Experienced Developer
 
